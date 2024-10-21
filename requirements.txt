@@ -1,3 +1,5 @@
 streamlit==1.39.0
 pandas==2.2.3
+streamlit_extras==0.5.0
+
 
